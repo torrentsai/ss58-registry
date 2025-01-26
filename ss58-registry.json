@@ -902,6 +902,24 @@
       "website": "https://geek.gl"
     },
     {
+      "prefix": 906,
+      "network": "ipchain",
+      "displayName": "IP Chain",
+      "symbols": ["IPR"],
+      "decimals": [18],
+      "standardAccount": "secp256k1",
+      "website": "https://ipchain.ai"
+    },
+    {
+      "prefix": 907,
+      "network": "ipchain-testnet",
+      "displayName": "IP Chain Testnet",
+      "symbols": ["TIPR"],
+      "decimals": [18],
+      "standardAccount": "secp256k1",
+      "website": "https://ipchain.ai"
+    },
+    {
       "prefix": 995,
       "network": "ternoa",
       "displayName": "Ternoa",
